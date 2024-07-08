@@ -5,10 +5,18 @@ Prerequisites
 Before running the script, ensure you have the following installed:
 
 Python (3.x recommended)
-pyqrcode library (pip install pyqrcode)
-PIL library (pip install pillow)
-tkinter library (usually comes with Python installation)
-
+pyqrcode library 
+'''sh
+pip install pyqrcode
+'''
+PIL library 
+'''sh
+pip install pillow
+'''
+tkinter library 
+'''sh
+tkinter
+'''
 
 Output:
 ![img.png](img.png)
