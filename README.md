@@ -6,17 +6,17 @@ Before running the script, ensure you have the following installed:
 
 Python (3.x recommended)
 pyqrcode library 
-'''sh
-pip install pyqrcode
-'''
+```sh 
+  pip install pyqrcode
+   ```
 PIL library 
-'''sh
+```sh
 pip install pillow
-'''
+```
 tkinter library 
-'''sh
+```sh
 tkinter
-'''
+```
 
 Output:
 ![img.png](img.png)
